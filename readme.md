@@ -1,4 +1,5 @@
 I. folder structure
+![project_layout](./images/project_layout.png)
 * cmd:
     contains cmd command generated and handle by [Cobra](https://github.com/spf13/cobra) 
 * internal:
@@ -26,3 +27,5 @@ II. Ref:
 3. [go-project-structure](https://dev.to/jinxankit/go-project-structure-and-guidelines-4ccm)
 4. [Go Project Structure Best Practices](https://tutorialedge.net/golang/go-project-structure-best-practices/)
 5. [i-ll-take-pkg-over-internal](https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/)
+6. [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+7. [Golang project structuring](https://medium.com/sellerapp/golang-project-structuring-ben-johnson-way-2a11035f94bc)
